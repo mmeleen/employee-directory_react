@@ -2,7 +2,7 @@
 
 ## Overview
 
-Task is to create a employee directory with React. Application's UI will be broken up into components, manage component state, and respond to user events.
+Task is to create an employee directory with React. Application's UI will be broken up into components, manage component state, and respond to user events.
 
 ## User Story
 

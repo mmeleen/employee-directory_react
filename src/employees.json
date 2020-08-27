@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "first": "Steve",
+        "last": "Phillips",
+        "role": "IT",
+        "email": "sp@comp.com",
+        "location": "South"
+    },
+    {
+        "id": 2,
+        "first": "Mary",
+        "last": "Jenkins",
+        "role": "Sales",
+        "email": "mj@comp.com",
+        "location": "North"
+    },
+    {
+        "id": 3,
+        "first": "John",
+        "last": "Hamilton",
+        "role": "Quality Assurance",
+        "email": "jh@comp.com",
+        "location": "Remote"
+    },
+    {
+        "id": 4,
+        "first": "Zoey",
+        "last": "Tran",
+        "role": "UX Research",
+        "email": "zt@comp.com",
+        "location": "North"
+    },
+    {
+        "id": 5,
+        "first": "Clay",
+        "last": "Valdes",
+        "role": "Tech Lead",
+        "email": "cv@comp.com",
+        "location": "South"
+    },
+    {
+        "id": 6,
+        "first": "Aubrey",
+        "last": "Fisher",
+        "role": "Human Resources",
+        "email": "af@comp.com",
+        "location": "South"
+    },
+    {
+        "id": 7,
+        "first": "Paul",
+        "last": "Akers",
+        "role": "Sales",
+        "email": "pa@comp.com",
+        "location": "North"
+    },
+    {
+        "id": 8,
+        "first": "Corey",
+        "last": "Elms",
+        "role": "Developer",
+        "email": "ce@comp.com",
+        "location": "Remote"
+    },
+    {
+        "id": 9,
+        "first": "Haley",
+        "last": "Jones",
+        "role": "Developer",
+        "email": "hj@comp.com",
+        "location": "South"
+    },
+    {
+        "id": 10,
+        "first": "Adrian",
+        "last": "Ramos",
+        "role": "Marketing",
+        "email": "ar@comp.com",
+        "location": "North"
+    },
+    {
+        "id": 11,
+        "first": "Nancy",
+        "last": "Walker",
+        "role": "Design",
+        "email": "nw@comp.com",
+        "location": "North"
+    },
+    {
+        "id": 12,
+        "first": "Quincey",
+        "last": "Smith",
+        "role": "Manager",
+        "email": "qs@comp.com",
+        "location": "South"
+    },
+    {
+        "id": 13,
+        "first": "Matt",
+        "last": "Yoo",
+        "role": "Office Administrator",
+        "email": "my@comp.com",
+        "location": "South"
+    }
+]

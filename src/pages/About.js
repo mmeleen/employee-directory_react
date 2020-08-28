@@ -26,7 +26,7 @@ class About extends Component {
   }
 
   toggleSort = (event) => {
-    console.log(event.target);
+    console.log(event.target.value);
     //let sortCol = event.target.value;
     this.setState({ sortBy: event.target.value });
     this.setState({ employees: this.sortField(employees) });
@@ -39,7 +39,7 @@ class About extends Component {
         return employee.last.toLowerCase().indexOf(this.state.search.toLowerCase()) !== -1;
       }
     )
-    console.log(this.state.employees);
+    // console.log(this.state.employees);
     return (
       <div>
         <div className="container">
@@ -47,7 +47,7 @@ class About extends Component {
             <h1 className="display-3 text-center">Employee Tracker</h1>
             <hr className="my-4"></hr>
             <div className="text-center">
-              <p className="lead">Click on a column header to sort by that column, or search for an employee here!</p>
+              <p className="lead">Double-click on a column header to sort by that column, or search for an employee here!</p>
               <div className="container justify-contents-center my-4">
                 <form>
                   <input
